@@ -1,0 +1,13 @@
+{
+  "extraKnownMarketplaces": {
+    "lot-map": {
+      "source": {
+        "source": "github",
+        "repo": "alexeyw/lot-map"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "lot-map@lot-map": true
+  }
+}
